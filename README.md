@@ -1,2 +1,2 @@
-# light_stemgnn
-light_stemgnn
+# test_env_stemgnn
+test_env_stemgnn
